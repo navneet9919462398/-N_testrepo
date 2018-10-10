@@ -55,10 +55,10 @@
         "out": "./lib/schemas/getPetsByStatus.out.json"
       }
     },
-    "getPetsByStatusWithPromisestest1": {
-      "main": "./lib/triggers/getPetsByStatusWithPromisestest1.js",
+    "getPetsByStatusWithPromisestest2": {
+      "main": "./lib/triggers/getPetsByStatusWithPromisestest2.js",
       "type": "polling",
-      "title": "Get Pets By Status With Promises -test",
+      "title": "Get Pets By Status With Promises test2",
       "fields": {
         "status": {
           "label": "Pet Status",
