@@ -55,8 +55,8 @@
         "out": "./lib/schemas/getPetsByStatus.out.json"
       }
     },
-    "getPetsByStatusWithPromises-test": {
-      "main": "./lib/triggers/getPetsByStatusWithPromises-test.js",
+    "getPetsByStatusWithPromisestest1": {
+      "main": "./lib/triggers/getPetsByStatusWithPromisestest1.js",
       "type": "polling",
       "title": "Get Pets By Status With Promises -test",
       "fields": {
